@@ -11,3 +11,5 @@
 - npm i -D @types/react-helmet
 
 ## State Management - Recoil
+
+- npm i recoil
